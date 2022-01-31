@@ -27,7 +27,7 @@ namespace ProgrammingAssignment1
                 // course add more space between the
                 // comments as needed
 
-
+                Console.WriteLine(input);
 
                 // Don't add or modify any code below
                 // this comment
